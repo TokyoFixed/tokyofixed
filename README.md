@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Bryan</h1>
-<h3 align="left">I help organizations make sense of their data and find value where they did not see it. 
+<h3 align="center">I help organizations make sense of their data and find value where they did not see it. 
   
   I am a Tokyo based data analyst with 15 years of experience working in data analysis, business intelligence, risk management, and financial reporting.</h3>
 
