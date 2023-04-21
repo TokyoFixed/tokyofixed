@@ -11,7 +11,8 @@
 
 - 🔭 I’m currently working on [The Deep Painting App](https://deep-painting-stream-1618.herokuapp.com/)
 
-- 📄 Check out about my [experience](https://tokyofixed.notion.site/Bryan-Battenfelder-24dba26e2df04019828766359d25194e)
+- 📄 Check out about my [experience](https://#)
+<!-- (https://tokyofixed.notion.site/Bryan-Battenfelder-24dba26e2df04019828766359d25194e) -->
 
 
 
