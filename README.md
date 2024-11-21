@@ -1,38 +1,25 @@
-<h1 align="left">Hi there 👋 I'm Bryan</h1>
- <h3 align="left">Data analyst with 15 years of experience working in business intelligence, risk management, and financial reporting.
-  </h3>
+<h1>👋 Hello, I'm Bryan!</h1>
 
-<h3 align="left">I help organizations make sense of their data and find value where they did not see it. 
-  
-  
-  </h3>
-  
- 
+<h2>🌟 About Me</h2>
+<p>
+  I’m a <strong>Data Analyst</strong> based in <strong>Tokyo, Japan</strong>, with a foundation in <strong>Physics</strong> (B.S. from Carnegie Mellon University) and a passion for uncovering insights from data. 
+  My goal is to become a <strong>Data Scientist</strong>, leveraging my expertise in <strong>Python</strong>, <strong>SQL</strong>, and <strong>machine learning</strong>.
+</p>
 
-- 🔭 I’m currently working on [The Deep Painting App](https://deep-painting-stream-1618.herokuapp.com/)
+<hr>
 
-- 📄 Check out my [experience](https://github.com/404)
-<!-- (https://tokyofixed.notion.site/Bryan-Battenfelder-24dba26e2df04019828766359d25194e) -->
+<h2>🚀 What I Do</h2>
+<ul>
+  <li><strong>Data Analysis & Visualization:</strong> Transforming complex datasets into actionable insights using tools like <strong>Power BI</strong>, <strong>Tableau</strong>, and <strong>Matplotlib</strong>.</li>
+  <li><strong>Programming & Automation:</strong> Writing efficient code in <strong>Python</strong> and <strong>SQL</strong>, automating workflows.
+  <li><strong>Machine Learning & Time Series Analysis:</strong> Building predictive models and analyzing financial trends with <strong>TensorFlow</strong>, <strong>scikit-learn</strong>, and <strong>Pandas</strong>.</li>
+</ul>
 
+<hr>
 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-<!--
-
-### Hi there 👋 I'm Bryan
-**TokyoFixed/tokyofixed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>🌐 Let's Connect!</h2>
+<ul>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bryan-battenfelder/">My LinkedIn Profile</a></li>
+  <li><strong>Portfolio:</strong> <a href="#">My Data Science Portfolio</a></li>
+  <li><strong>GitHub:</strong> <a href="https://github.com/TokyoFixed">GitHub Profile</a></li>
+</ul>
