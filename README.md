@@ -1,24 +1,14 @@
-<h1>👋 Hello, I'm Bryan!</h1>
+# Bryan Battenfelder
 
-<h2>🌟 About Me</h2>
-<p>
-  I’m a <strong>Data Scientist</strong> based in <strong>Tokyo, Japan</strong>, with a foundation in <strong>Physics</strong> (B.S. from Carnegie Mellon University). I specialize in leveraging <strong>Python</strong>, <strong>SQL</strong>, and <strong>machine learning</strong> to uncover insights, solve complex problems, and build impactful data-driven solutions.
-</p>
+Data Scientist in Tokyo, Japan, with a B.S. in Physics from Carnegie Mellon University. I build data-driven solutions using Python, SQL, and machine learning to solve complex problems and drive insights.
 
-<hr>
+## Expertise
+- **Machine Learning & Time Series**: Predictive models and financial trend analysis with TensorFlow, scikit-learn, and Pandas.
+- **Data Analysis & Visualization**: Actionable insights using Tableau, Power BI, and Matplotlib.
+- **Programming & Automation**: Efficient Python and SQL workflows for scalability and productivity.
 
-<h2>🚀 What I Do</h2>
-<ul>
-  <li><strong>Programming & Automation:</strong> Writing efficient code in <strong>Python</strong> and <strong>SQL</strong>, automating workflows and enhancing productivity.</li>
-  <li><strong>Machine Learning & Time Series Analysis:</strong> Building predictive models and analyzing financial trends with <strong>TensorFlow</strong>, <strong>scikit-learn</strong>, and <strong>Pandas</strong>.</li>
-  <li><strong>Data Analysis & Visualization:</strong> Transforming complex datasets into actionable insights using tools like <strong>Power BI</strong>, <strong>Tableau</strong>, and <strong>Matplotlib</strong>.</li>
-</ul>
 
-<hr>
+## Connect
+- [LinkedIn](https://www.linkedin.com/in/bryan-battenfelder/)
+- [GitHub](https://github.com/TokyoFixed)
 
-<h2>🌐 Let's Connect!</h2>
-<ul>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/bryan-battenfelder/">My LinkedIn Profile</a></li>
-  <li><strong>Portfolio:</strong> <a href="#">My Data Science Portfolio</a></li>
-  <li><strong>GitHub:</strong> <a href="https://github.com/TokyoFixed">GitHub Profile</a></li>
-</ul>
